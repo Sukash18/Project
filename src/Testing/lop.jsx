@@ -21,7 +21,7 @@ const Lope = () => {
         <TextField id="outlined-basic" label="EmailId" variant="outlined" size="large" sx={{width:'400px', backgroundColor: "white"}}/>
     </Typography>
         </div>
-
+ 
     <br />
     <br />
     <Typography>
